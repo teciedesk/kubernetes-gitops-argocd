@@ -1,0 +1,6 @@
+resources:
+  - ../../../base/vote-service
+
+namePrefix: dev-
+commonLabels:
+  env: dev
