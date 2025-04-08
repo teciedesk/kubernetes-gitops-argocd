@@ -3,14 +3,6 @@ kind: Application
 metadata:
   name: kustomize-app
   namespace: argocd
-spec:
-  project: default
-  source:
-    repoURL: https://github.com/teciedesk/kubernetes-gitops-argocd.git
-    targetRevision: HEAD
-    path: kustomize
-    kustomize:
-      version: v3.8.2
   destination:
     server: https://kubernetes.default.svc
     namespace: kustomize
