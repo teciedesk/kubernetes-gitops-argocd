@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/teciedesk/kubernetes-gitops-argocd.git
     targetRevision: HEAD
-    path: helm
+    path: helm/jenkins
     helm:
       valueFiles:
         - values.yaml
