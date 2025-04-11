@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_REPO = 'https://github.com/<your-username>/kubernetes-gitops-argocd.git'
+        GIT_REPO = 'https://github.com/teciedesk/kubernetes-gitops-argocd.git'
         BRANCH = 'main'
         GIT_CREDENTIALS_ID = 'your-github-creds-id'
     }
