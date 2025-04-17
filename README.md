@@ -140,17 +140,10 @@ All apps are:
 
 ---
 
-## 🖥️ Demo Screenshots
-
-![ArgoCD Dashboard](./screenshots/argocd-ui.png)
-![Jenkins Pipeline](./screenshots/jenkins-pipeline.png)
-
----
-
 ## 💼 About the Author
 
 **Tobiliba | TECIE-DESK Support Solution**  
-🔗 [LinkedIn](https://linkedin.com/in/tobiliba)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tobi-osiberu-a6667a1ab)  
 📦 [Docker Hub](https://hub.docker.com/u/tobiliba993)  
 🌐 [GitHub](https://github.com/teciedesk)
 
@@ -164,6 +157,6 @@ All apps are:
 
 ## 📣 Want to Learn More?
 
-👉 Check out the LinkedIn Post: [🔗 View Project Showcase](https://www.linkedin.com/feed/update/urn:li:activity:1234567890123456789)
+👉 Check out the LinkedIn Post: [🔗 View Project Showcase](https://www.linkedin.com/posts/tobi-osiberu-a6667a1ab_devops-gitops-jenkins-activity-7316609407750934529-1X57?utm_source=share&utm_medium=member_desktop&rcm=ACoAADEK-G4B4orgNnsFhPq23uko9ggM44mIo_k)
 
 Use this as a blueprint to build your own GitOps CI/CD automation! 🛠️
